@@ -1,0 +1,15 @@
+.repos{
+    border: 2px solid grey;
+    margin-bottom: 2vh;
+    margin-right: 1vw;
+    text-align: center;
+    border-radius: 5px;
+    display: inline-block;
+    font-family:monospace
+}
+.repo-inner-div{
+    margin: 5px;
+}
+a{
+    text-decoration: none;
+}
