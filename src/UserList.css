@@ -5,7 +5,6 @@
 .user-card{
     display: flex;
     flex-direction: row;
-    
     margin-left: 5vw;
     margin-right: 7vw;
     border-bottom: 1px solid rgb(197, 197, 197);
@@ -16,7 +15,7 @@
     width: 75px;
     border-radius: 90%;
     margin-bottom: 0vh;
-    margin-top:3.1vh;
+    margin-top:2.2vh;
 }
 .button-transparent{
     background: transparent;
@@ -37,7 +36,7 @@ button{
     border: 1px solid rgba(196, 196, 196, 0.315);
     border-radius: 15px;
     background: transparent;
-    margin: 0vh 2vw 2vw 2vw;
+    margin: 0vh 2vw 3vw 2vw;
     font-weight: 600;
     width:70vw;
 }
@@ -71,5 +70,8 @@ button{
         height: 65px;
         width: 65px;
         margin-top: 2.5vh;
+    }
+    button{
+        width: 60vw;
     }
 }
